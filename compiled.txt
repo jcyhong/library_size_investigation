@@ -1,0 +1,241 @@
+"study_id" "summary" "method" "group" "p_val" "category" "interest"
+317 "hand bacteria" "TSS" "anatomical_body_site" 0.180009778155943 "body_site" FALSE
+317 "hand bacteria" "GMPR" "anatomical_body_site" 0.976717113837534 "body_site" FALSE
+317 "hand bacteria" "CSS" "anatomical_body_site" 0.472253080394585 "body_site" FALSE
+317 "hand bacteria" "TSS" "sex" 0.351038025139517 "demographics" TRUE
+317 "hand bacteria" "GMPR" "sex" 0.408188656722515 "demographics" TRUE
+317 "hand bacteria" "CSS" "sex" 0.00174529956568022 "demographics" TRUE
+317 "hand bacteria" "TSS" "dominant_hand" 0.266963018770776 "habit" TRUE
+317 "hand bacteria" "GMPR" "dominant_hand" 0.76808256190095 "habit" TRUE
+317 "hand bacteria" "CSS" "dominant_hand" 0.405093985607492 "habit" TRUE
+317 "hand bacteria" "TSS" "time_since_last_wash" 2.59413107338711e-07 "time" TRUE
+317 "hand bacteria" "GMPR" "time_since_last_wash" 1.66058875990881e-08 "time" TRUE
+317 "hand bacteria" "CSS" "time_since_last_wash" 4.32384456696159e-08 "time" TRUE
+NA "soil from Ulas" "TSS" "aggsize" 4.80506330660034e-10 "" FALSE
+NA "soil from Ulas" "GMPR" "aggsize" 2.3560197973672e-10 "" FALSE
+NA "soil from Ulas" "CSS" "aggsize" 2.62976341188479e-09 "" FALSE
+213 "soil" "TSS" "carbon_substrate" 0.256999890747794 "chemicals" TRUE
+213 "soil" "GMPR" "carbon_substrate" 0.00712273246681126 "chemicals" TRUE
+213 "soil" "CSS" "carbon_substrate" 0.0269043017243599 "chemicals" TRUE
+213 "soil" "TSS" "env_biome" 0.0846366615062239 "habitat" TRUE
+213 "soil" "GMPR" "env_biome" 0.12516467608766 "habitat" TRUE
+213 "soil" "CSS" "env_biome" 0.0268538269146076 "habitat" TRUE
+232 "forensic" "TSS" "sample_type" 0.000476589480750044 "" TRUE
+232 "forensic" "GMPR" "sample_type" 0.0104534413460443 "" TRUE
+232 "forensic" "CSS" "sample_type" 0.256905738508341 "" TRUE
+232 "forensic" "TSS" "sex" 0.000270715926734945 "demographics" FALSE
+232 "forensic" "GMPR" "sex" 0.00172986136258269 "demographics" FALSE
+232 "forensic" "CSS" "sex" 0.487775963694558 "demographics" FALSE
+349 "atherosclerosis" "TSS" "atherosclerosis" 1.77952345350019e-05 "disease" TRUE
+349 "atherosclerosis" "GMPR" "atherosclerosis" 0.504691476016255 "disease" TRUE
+349 "atherosclerosis" "CSS" "atherosclerosis" 0.098401355249242 "disease" TRUE
+349 "atherosclerosis" "TSS" "sample_type" 6.20012084116811e-06 "body_site" TRUE
+349 "atherosclerosis" "GMPR" "sample_type" 4.92661529952886e-06 "body_site" TRUE
+349 "atherosclerosis" "CSS" "sample_type" 4.12723333094728e-09 "body_site" TRUE
+349 "atherosclerosis" "TSS" "chronic_condition" 9.8889697139655e-05 "disease" FALSE
+349 "atherosclerosis" "GMPR" "chronic_condition" 0.680173964214656 "disease" FALSE
+349 "atherosclerosis" "CSS" "chronic_condition" 0.245910750200894 "disease" FALSE
+349 "atherosclerosis" "TSS" "diabetes" 0.0215852372977755 "disease" FALSE
+349 "atherosclerosis" "GMPR" "diabetes" 0.688480246482497 "disease" FALSE
+349 "atherosclerosis" "CSS" "diabetes" 0.478127741763463 "disease" FALSE
+349 "atherosclerosis" "TSS" "hypertension" 0.00412040194493386 "disease" FALSE
+349 "atherosclerosis" "GMPR" "hypertension" 0.868545677508188 "disease" FALSE
+349 "atherosclerosis" "CSS" "hypertension" 0.515052608269891 "disease" FALSE
+349 "atherosclerosis" "TSS" "sex" 0.855464264835636 "demographics" FALSE
+349 "atherosclerosis" "GMPR" "sex" 0.68449749956938 "demographics" FALSE
+349 "atherosclerosis" "CSS" "sex" 0.643809114895582 "demographics" FALSE
+349 "atherosclerosis" "TSS" "smoker" 0.0113418390057028 "habit" FALSE
+349 "atherosclerosis" "GMPR" "smoker" 0.219886752637653 "habit" FALSE
+349 "atherosclerosis" "CSS" "smoker" 0.556994248382606 "habit" FALSE
+353 "storage" "TSS" "body_habitat" 0.00274975905808004 "body_site" TRUE
+353 "storage" "GMPR" "body_habitat" 0.0040824531452854 "body_site" TRUE
+353 "storage" "CSS" "body_habitat" 0.00324132841743962 "body_site" TRUE
+353 "storage" "TSS" "env_feature" 0.237921717405142 "" TRUE
+353 "storage" "GMPR" "env_feature" 0.204965271270563 "" TRUE
+353 "storage" "CSS" "env_feature" 4.80124766942062e-22 "" TRUE
+353 "storage" "TSS" "sex" 0.0236111133661162 "demographics" FALSE
+353 "storage" "GMPR" "sex" 0.28256518784949 "demographics" FALSE
+353 "storage" "CSS" "sex" 0.00112370956826864 "demographics" FALSE
+353 "storage" "TSS" "storage_days" 0.773570453178851 "time" TRUE
+353 "storage" "GMPR" "storage_days" 0.133493913271715 "time" TRUE
+353 "storage" "CSS" "storage_days" 0.7236099711764 "time" TRUE
+353 "storage" "TSS" "storage_temp" 0.576772673405559 "temp" TRUE
+353 "storage" "GMPR" "storage_temp" 0.410818696875945 "temp" TRUE
+353 "storage" "CSS" "storage_temp" 0.798962513093367 "temp" TRUE
+1939 "CD" "TSS" "type_sample" 0.000631145796338214 "body_site" TRUE
+1939 "CD" "GMPR" "type_sample" 8.87314983550663e-21 "body_site" TRUE
+1939 "CD" "CSS" "type_sample" 2.62525224366356e-15 "body_site" TRUE
+1939 "CD" "TSS" "body_site" 1.02290423190262e-07 "body_site" TRUE
+1939 "CD" "GMPR" "body_site" 7.56198665230378e-21 "body_site" TRUE
+1939 "CD" "CSS" "body_site" 5.98494534772547e-16 "body_site" TRUE
+1939 "CD" "TSS" "antibiotics" 0.963400818648982 "disease" TRUE
+1939 "CD" "GMPR" "antibiotics" 0.367369204084551 "disease" TRUE
+1939 "CD" "CSS" "antibiotics" 0.655144177102825 "disease" TRUE
+1939 "CD" "TSS" "diagnosis" 0.558132483105094 "disease" TRUE
+1939 "CD" "GMPR" "diagnosis" 0.0276088471161092 "disease" TRUE
+1939 "CD" "CSS" "diagnosis" 0.309178530106337 "disease" TRUE
+1939 "CD" "TSS" "race" 0.0440472429522929 "demographics" FALSE
+1939 "CD" "GMPR" "race" 0.0987716742988275 "demographics" FALSE
+1939 "CD" "CSS" "race" 0.0396798893844968 "demographics" FALSE
+10333 "urbanization" "GMPR" "env_biome" 0.000714553439844504 "habitat" TRUE
+10333 "urbanization" "TSS" "env_biome" 0.000289302128642215 "habitat" TRUE
+10333 "urbanization" "CSS" "env_biome" 0.301861056692246 "habitat" TRUE
+10333 "urbanization" "TSS" "env_material" 1.97400461278866e-30 "" FALSE
+10333 "urbanization" "GMPR" "env_material" 1.42170205241537e-38 "" FALSE
+10333 "urbanization" "CSS" "env_material" 2.97681132220247e-72 "" FALSE
+10333 "urbanization" "TSS" "env_package" 7.45273890835312e-32 "" FALSE
+10333 "urbanization" "GMPR" "env_package" 9.15388321534271e-64 "" FALSE
+10333 "urbanization" "CSS" "env_package" 7.75738941740828e-71 "" FALSE
+10333 "urbanization" "TSS" "cleaning_frequency" 0.00562968644582923 "habit" FALSE
+10333 "urbanization" "GMPR" "cleaning_frequency" 0.00443669822409517 "habit" FALSE
+10333 "urbanization" "CSS" "cleaning_frequency" 0.110721671738376 "habit" FALSE
+10333 "urbanization" "TSS" "country" 0.000289302128642215 "geo_loc" FALSE
+10333 "urbanization" "GMPR" "country" 0.000714553439844504 "geo_loc" FALSE
+10333 "urbanization" "CSS" "country" 0.301861056692246 "geo_loc" FALSE
+10333 "urbanization" "TSS" "fans" 0.00181235086741646 "habit" FALSE
+10333 "urbanization" "GMPR" "fans" 0.00035977078332409 "habit" FALSE
+10333 "urbanization" "CSS" "fans" 0.524295243389185 "habit" FALSE
+10333 "urbanization" "TSS" "washer" 8.15900492308812e-05 "habit" FALSE
+10333 "urbanization" "GMPR" "washer" 1.30090056202449e-05 "habit" FALSE
+10333 "urbanization" "CSS" "washer" 0.848149591523302 "habit" FALSE
+10333 "urbanization" "TSS" "cats" 0.00521167684890662 "habit" FALSE
+10333 "urbanization" "GMPR" "cats" 0.241827561687361 "habit" FALSE
+10333 "urbanization" "CSS" "cats" 0.10277588164955 "habit" FALSE
+10333 "urbanization" "TSS" "dogs" 0.0225375571625542 "habit" FALSE
+10333 "urbanization" "GMPR" "dogs" 0.55238467228822 "habit" FALSE
+10333 "urbanization" "CSS" "dogs" 0.0168775657069859 "habit" FALSE
+10333 "urbanization" "TSS" "ethnicity" 0.153634605104463 "demographics" FALSE
+10333 "urbanization" "GMPR" "ethnicity" 0.00701131025210164 "demographics" FALSE
+10333 "urbanization" "CSS" "ethnicity" 0.0520734922236391 "demographics" FALSE
+10333 "urbanization" "TSS" "geo_loc_name" 0.000693038634706307 "geo_loc" FALSE
+10333 "urbanization" "GMPR" "geo_loc_name" 2.43381366764166e-06 "geo_loc" FALSE
+10333 "urbanization" "CSS" "geo_loc_name" 0.0157079696230467 "geo_loc" FALSE
+10333 "urbanization" "TSS" "host_body_habitat" 1.97400461278866e-30 "body_site" FALSE
+10333 "urbanization" "GMPR" "host_body_habitat" 1.42170205241537e-38 "body_site" FALSE
+10333 "urbanization" "CSS" "host_body_habitat" 2.97681132220247e-72 "body_site" FALSE
+10333 "urbanization" "TSS" "host_body_site" 1.27484005177867e-31 "body_site" FALSE
+10333 "urbanization" "GMPR" "host_body_site" 3.17191583895985e-41 "body_site" FALSE
+10333 "urbanization" "CSS" "host_body_site" 8.4395099250967e-71 "body_site" FALSE
+10333 "urbanization" "TSS" "sample_type" 1.97400461278866e-30 "" FALSE
+10333 "urbanization" "GMPR" "sample_type" 1.42170205241537e-38 "" FALSE
+10333 "urbanization" "CSS" "sample_type" 2.97681132220247e-72 "" FALSE
+10333 "urbanization" "TSS" "sex" 0.61854186996115 "demographics" FALSE
+10333 "urbanization" "GMPR" "sex" 0.44618960380344 "demographics" FALSE
+10333 "urbanization" "CSS" "sex" 0.819663718376845 "demographics" FALSE
+10333 "urbanization" "TSS" "wireless" 0.00506580048611289 "habit" FALSE
+10333 "urbanization" "GMPR" "wireless" 0.000418573957662044 "habit" FALSE
+10333 "urbanization" "CSS" "wireless" 0.620645940086654 "habit" FALSE
+11666 "latinos" "TSS" "hispanic_origin" 0.40515908421582 "demographics" TRUE
+11666 "latinos" "GMPR" "hispanic_origin" 0.118210476538067 "demographics" TRUE
+11666 "latinos" "CSS" "hispanic_origin" 0.127785841985467 "demographics" TRUE
+11666 "latinos" "TSS" "diabetes_self_v2" 0.896039161660748 "disease" FALSE
+11666 "latinos" "GMPR" "diabetes_self_v2" 0.983961579413735 "disease" FALSE
+11666 "latinos" "CSS" "diabetes_self_v2" 0.239595600270022 "disease" FALSE
+11666 "latinos" "TSS" "us_born_v2" 0.600092210558841 "demographics" TRUE
+11666 "latinos" "GMPR" "us_born_v2" 0.322682747759921 "demographics" TRUE
+11666 "latinos" "CSS" "us_born_v2" 0.8581515195948 "demographics" TRUE
+11666 "latinos" "TSS" "education_c3_v2" 0.956795337875828 "demographics" FALSE
+11666 "latinos" "GMPR" "education_c3_v2" 0.0256841411867316 "demographics" FALSE
+11666 "latinos" "CSS" "education_c3_v2" 0.783767823985476 "demographics" FALSE
+10394 "fecal storage" "TSS" "sample_storage_temp_treatment" 7.07426242427811e-08 "temp" TRUE
+10394 "fecal storage" "GMPR" "sample_storage_temp_treatment" 0.114246332601202 "temp" TRUE
+10394 "fecal storage" "CSS" "sample_storage_temp_treatment" 0.197724422568624 "temp" TRUE
+10394 "fecal storage" "TSS" "sample_preservation_method" 0.448530197664281 "chemicals" TRUE
+10394 "fecal storage" "GMPR" "sample_preservation_method" 0.00613363043823562 "chemicals" TRUE
+10394 "fecal storage" "CSS" "sample_preservation_method" 0.0448608761828269 "chemicals" TRUE
+10394 "fecal storage" "TSS" "duration_of_storage" 1.68417700488552e-15 "time" TRUE
+10394 "fecal storage" "GMPR" "duration_of_storage" 1.03020385253255e-06 "time" TRUE
+10394 "fecal storage" "CSS" "duration_of_storage" 1.43060588045629e-08 "time" TRUE
+11757 "regional variation" "TSS" "districts" 1.83825844806386e-38 "geo_loc" TRUE
+11757 "regional variation" "GMPR" "districts" 3.40175217603949e-73 "geo_loc" TRUE
+11757 "regional variation" "CSS" "districts" 5.06338110333452e-78 "geo_loc" TRUE
+11757 "regional variation" "TSS" "occupation" 7.22311952961394e-06 "demographic" FALSE
+11757 "regional variation" "GMPR" "occupation" 0.000586662654615029 "demographic" FALSE
+11757 "regional variation" "CSS" "occupation" 0.192599789928677 "demographic" FALSE
+11757 "regional variation" "TSS" "education" 0.000291292998466099 "demographic" FALSE
+11757 "regional variation" "GMPR" "education" 3.98461079359301e-12 "demographic" FALSE
+11757 "regional variation" "CSS" "education" 0.124236103995735 "demographic" FALSE
+11757 "regional variation" "TSS" "antibiotics" 0.000105717932855515 "disease" FALSE
+11757 "regional variation" "GMPR" "antibiotics" 8.0906860285212e-06 "disease" FALSE
+11757 "regional variation" "CSS" "antibiotics" 1.38261454359046e-09 "disease" FALSE
+11757 "regional variation" "TSS" "diarrhea" 0.017861742815328 "disease" FALSE
+11757 "regional variation" "GMPR" "diarrhea" 0.0985793315626236 "disease" FALSE
+11757 "regional variation" "CSS" "diarrhea" 0.000846697378235895 "disease" FALSE
+12285 "allergy" "TSS" "airconditioning" 0.882571805743201 "habitat" FALSE
+12285 "allergy" "GMPR" "airconditioning" 0.902034649254403 "habitat" FALSE
+12285 "allergy" "CSS" "airconditioning" 0.388885411807763 "habitat" FALSE
+12285 "allergy" "TSS" "carpets" 0.495444131296309 "habitat" FALSE
+12285 "allergy" "GMPR" "carpets" 0.432705741415754 "habitat" FALSE
+12285 "allergy" "CSS" "carpets" 0.309590138401831 "habitat" FALSE
+12285 "allergy" "TSS" "dustmitecovers" 0.558963533162179 "habitat" FALSE
+12285 "allergy" "GMPR" "dustmitecovers" 0.407741814934231 "habitat" FALSE
+12285 "allergy" "CSS" "dustmitecovers" 0.961159590925908 "habitat" FALSE
+12285 "allergy" "TSS" "fan" 0.752113180466337 "habitat" FALSE
+12285 "allergy" "GMPR" "fan" 0.125848988206729 "habitat" FALSE
+12285 "allergy" "CSS" "fan" 0.980616123618551 "habitat" FALSE
+12285 "allergy" "TSS" "neighborhood" 0.0504441997718447 "habitat" TRUE
+12285 "allergy" "GMPR" "neighborhood" 0.766372483517978 "habitat" TRUE
+12285 "allergy" "CSS" "neighborhood" 0.182514660859876 "habitat" TRUE
+12285 "allergy" "TSS" "floweringplants" 0.749676887371094 "habitat" FALSE
+12285 "allergy" "GMPR" "floweringplants" 0.549674663745715 "habitat" FALSE
+12285 "allergy" "CSS" "floweringplants" 0.472820645104709 "habitat" FALSE
+12080 "immigration" "TSS" "type_location_before_us" 0.000411856651146174 "habitat" FALSE
+12080 "immigration" "GMPR" "type_location_before_us" 0.201571894777665 "habitat" FALSE
+12080 "immigration" "CSS" "type_location_before_us" 0.0111941666018277 "habitat" FALSE
+12080 "immigration" "TSS" "sample_group" 4.95114243831581e-07 "demographics" TRUE
+12080 "immigration" "GMPR" "sample_group" 9.40928606667756e-14 "demographics" TRUE
+12080 "immigration" "CSS" "sample_group" 0.00798978714947327 "demographics" TRUE
+12080 "immigration" "TSS" "religion" 0.135389894069804 "demographics" FALSE
+12080 "immigration" "GMPR" "religion" 0.047370514864276 "demographics" FALSE
+12080 "immigration" "CSS" "religion" 0.122083141625988 "demographics" FALSE
+12080 "immigration" "TSS" "highest_education" 0.000107064680523023 "demographics" FALSE
+12080 "immigration" "GMPR" "highest_education" 5.21623432911887e-09 "demographics" FALSE
+12080 "immigration" "CSS" "highest_education" 0.00285440202387113 "demographics" FALSE
+12080 "immigration" "TSS" "ethnicity" 0.00335905492977842 "demographics" FALSE
+12080 "immigration" "GMPR" "ethnicity" 1.71680679107375e-10 "demographics" FALSE
+12080 "immigration" "CSS" "ethnicity" 0.0306722326158061 "demographics" FALSE
+12080 "immigration" "TSS" "alcohol_use" 0.202693024809476 "habit" FALSE
+12080 "immigration" "GMPR" "alcohol_use" 0.14350586751031 "habit" FALSE
+12080 "immigration" "CSS" "alcohol_use" 0.0987998123787149 "habit" FALSE
+12080 "immigration" "TSS" "bmi_class" 0.6513162024035 "demographics" TRUE
+12080 "immigration" "GMPR" "bmi_class" 0.0665377871686837 "demographics" TRUE
+12080 "immigration" "CSS" "bmi_class" 0.802539923692276 "demographics" TRUE
+12021 "infants" "TSS" "diet" 0.00723692555400859 "habit" TRUE
+12021 "infants" "GMPR" "diet" 0.425925772625649 "habit" TRUE
+12021 "infants" "CSS" "diet" 1.62812656662604e-05 "habit" TRUE
+12021 "infants" "TSS" "gender" 0.869690185588387 "demographics" FALSE
+12021 "infants" "GMPR" "gender" 0.326990565191757 "demographics" FALSE
+12021 "infants" "CSS" "gender" 0.97043226634151 "demographics" FALSE
+12021 "infants" "TSS" "host_age" 1.44781907399752e-11 "demographics" FALSE
+12021 "infants" "GMPR" "host_age" 0.00475069063959205 "demographics" FALSE
+12021 "infants" "CSS" "host_age" 6.1167901005486e-34 "demographics" FALSE
+11993 "westernization" "TSS" "age_range" 0.222059744406793 "demographics" TRUE
+11993 "westernization" "GMPR" "age_range" 0.57241939500431 "demographics" TRUE
+11993 "westernization" "CSS" "age_range" 0.998805307086013 "demographics" TRUE
+11993 "westernization" "TSS" "bmi_class" 0.827034593656844 "demographics" TRUE
+11993 "westernization" "GMPR" "bmi_class" 0.487714660558924 "demographics" TRUE
+11993 "westernization" "CSS" "bmi_class" 0.410590319208452 "demographics" TRUE
+11993 "westernization" "TSS" "city" 6.32455256453955e-05 "geo_loc" TRUE
+11993 "westernization" "GMPR" "city" 6.9816335627893e-11 "geo_loc" TRUE
+11993 "westernization" "CSS" "city" 3.20320123994869e-09 "geo_loc" TRUE
+11993 "westernization" "TSS" "medicament" 0.136607786690745 "disease" FALSE
+11993 "westernization" "GMPR" "medicament" 0.796557510769583 "disease" FALSE
+11993 "westernization" "CSS" "medicament" 0.0810104243472763 "disease" FALSE
+11993 "westernization" "TSS" "sex" 0.316309167802956 "demographics" TRUE
+11993 "westernization" "GMPR" "sex" 0.0904456126526809 "demographics" TRUE
+11993 "westernization" "CSS" "sex" 0.0198356718648283 "demographics" TRUE
+11993 "westernization" "TSS" "stool_consistency" 0.223679361854568 "body_site" FALSE
+11993 "westernization" "GMPR" "stool_consistency" 0.614754806154859 "body_site" FALSE
+11993 "westernization" "CSS" "stool_consistency" 0.311959651099862 "body_site" FALSE
+11947 "himalayas" "TSS" "sex" 0.605823847567124 "demographics" FALSE
+11947 "himalayas" "GMPR" "sex" 0.979066299807555 "demographics" FALSE
+11947 "himalayas" "CSS" "sex" 0.101924101480859 "demographics" FALSE
+11947 "himalayas" "TSS" "country" 6.65752116902664e-11 "demographics" TRUE
+11947 "himalayas" "GMPR" "country" 2.47820385694574e-12 "demographics" TRUE
+11947 "himalayas" "CSS" "country" 1.22545642216035e-11 "demographics" TRUE
+11947 "himalayas" "TSS" "population" 4.99796044539256e-09 "demographics" TRUE
+11947 "himalayas" "GMPR" "population" 3.53303869640392e-11 "demographics" TRUE
+11947 "himalayas" "CSS" "population" 1.22649724496914e-09 "demographics" TRUE
+11947 "himalayas" "TSS" "smok" 0.374048441954878 "habit" FALSE
+11947 "himalayas" "GMPR" "smok" 0.548838698645418 "habit" FALSE
+11947 "himalayas" "CSS" "smok" 0.63445451777911 "habit" FALSE
